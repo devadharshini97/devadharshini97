@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devadharshini
 - 👀 I’m interested in exploring the AIML field with particular interest towards autonomous vehicles 
 - 🌱 I’m currently a EE grad student 
-- 💞️ Looking to collaborate with people having similar interests
+- 💞️ Looking to collaborate with like-minded people 
 - 📫 you can reach me at https://www.linkedin.com/in/devadharshini-ayyappan-302282103
 
 <!---
