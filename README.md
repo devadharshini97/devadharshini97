@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Devadharshini
+- 👋 Hi, I’m Deva
 - 👀 I’m interested in exploring the AIML field with particular interest towards autonomous vehicles 
 - 🌱 I’m an EE grad student at NC State University.
 - 💞️ Looking to collaborate with like-minded people 
