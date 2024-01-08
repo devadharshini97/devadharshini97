@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Deva
-- 👀 I’m interested in exploring the AIML field with particular interest towards autonomous vehicles. Recently been interested in AR/VR also.
-- 🌱 I’m an EE grad student at NC State University.
+- 🌱 I’m a final year graduate student at NC State University with a focus on machine learning, deep learning and computer vision.
+- 👀 Open for Full-time opportunities starting May 2024
 - 💞️ Looking to collaborate with like-minded people 
-- 📫 you can reach me at https://www.linkedin.com/in/devadharshini-ayyappan-302282103
+- 📫 you can reach me at https://www.linkedin.com/in/devadharshini-ayyappan-302282103 or dayyapp@ncsu.edu
 
 <!---
 devadharshini97/devadharshini97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
