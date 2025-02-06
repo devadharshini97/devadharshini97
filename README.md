@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deva
 - 🌱 I’m a PhD student at NC State University with a focus on machine learning, deep learning and computer vision.
-- 👀 Open for Full-time opportunities starting August 2024
+- 👀 Open for internship opportunities
 - 💞️ Looking to collaborate with like-minded people 
 - 📫 you can reach me at https://www.linkedin.com/in/devadharshini-ayyappan-302282103 or dayyapp@ncsu.edu
 
